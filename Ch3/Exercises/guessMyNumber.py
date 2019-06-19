@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  6 10:30:09 2019
-
-@author: air
-"""
-
 low = 0
 high = 100
 answer = (high + low)/2
